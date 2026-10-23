@@ -1,0 +1,4 @@
+# Vercel CLI 배포에는 페이지 파일만 올림 (기획서·사진·원본 영상·시안은 제외)
+/*
+!/main.html
+!/vercel.json
