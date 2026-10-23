@@ -1,0 +1,5 @@
+# 배포에는 main.html만 포함 (원본 시안·이미지·영상·기획서는 제외)
+*
+!.gitignore
+!main.html
+!vercel.json
